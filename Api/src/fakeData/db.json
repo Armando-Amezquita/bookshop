@@ -1,0 +1,79 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "name": "El secreto del muro",
+            "released": "2013-09-17",
+            "image": "https://i.pinimg.com/originals/ab/13/19/ab1319dc85d07cbdaa03cc2f354d63d5.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Matar a un risueñor",
+            "released": "2021-08-27",
+            "image": "https://okdiario.com/coolthelifestyle/img/2020/09/27/1.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Candido",
+            "released": "1987-06-30",
+            "image": "https://i.pinimg.com/originals/a3/1c/5c/a31c5ca707c2793cd338f3200707db0e.jpg"
+        },
+        {
+            "id": 4,
+            "name": "El secreto del muro",
+            "released": "2013-09-17",
+            "image": "https://i.pinimg.com/originals/ab/13/19/ab1319dc85d07cbdaa03cc2f354d63d5.jpg"
+        },
+        {
+            "id": 5,
+            "name": "EL día que se perdio la cordura",
+            "released": "2001-01-12",
+            "image": "https://bb2b.es/wp-content/uploads/2021/09/portada-de-libros-famosos.jpg"
+        },
+        {
+            "id": 6,
+            "name": "A dos metros de ti",
+            "released": "2005-12-01",
+            "image": "https://i.pinimg.com/236x/22/fd/25/22fd25dddb9acdf6a828ee27f184f250.jpg"
+        }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "name": "Armando",
+            "lastname": "Amezquita",
+            "email": "a.amezquita.1009@gmail.com"
+        },
+        {
+            "id": 2,
+            "name": "Dominick",
+            "lastname": "Dereck",
+            "email": "dereck@gmail.com"
+        },
+        {
+            "id": 3,
+            "name": "Romina",
+            "lastname": "Valencia",
+            "email": "romina@gmail.com"
+        },
+        {
+            "id": 4,
+            "name": "Valentina",
+            "lastname": "Lopez",
+            "email": "valen@gmail.com"
+        },
+        {
+            "id": 5,
+            "name": "mohame",
+            "lastname": "salad",
+            "email": "mohame@gmail.com"
+        },
+        {
+            "id": 6,
+            "name": "stefani",
+            "lastname": "cabel",
+            "email": "stefi@gmail.com"
+        }
+    ]
+}
+
